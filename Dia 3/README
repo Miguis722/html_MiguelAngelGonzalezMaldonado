@@ -1,2 +1,4 @@
 La imagen del json original que se paso por discord, no sirve debido a que NO existe,
 Por lo tanto cuando se pidio a chat gpt que arreglara el json, puso una imagen de visualizador
+
+Se puede realizar de 2 formas, la primera es en una tabla horizontal(index.html), ahora en una tabla vertical (dentro de la carpeta llamada Metodo 2)
