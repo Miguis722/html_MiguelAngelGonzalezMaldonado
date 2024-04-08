@@ -1,0 +1,5 @@
+<tr> define una fila de celdas en una tabla.
+La etiqueta <td> en HTML representa una celda de una tabla.
+Para que se nos redirija a un sitio web por medio de darle click a algo, usamos <a> </a>
+la etiqueta <ul> se utiliza para crear una lista no ordenada y la etiqueta <li> se utiliza para crear cada elemento de la lista.
+El atributo alt en la etiqueta <img> proporciona un texto alternativo que se muestra cuando la imagen no se puede cargar.
