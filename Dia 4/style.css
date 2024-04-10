@@ -1,0 +1,68 @@
+* {
+    padding: 4px;
+    margin: 0px;
+}
+
+html {
+    background: black;
+}
+
+body {
+    height: 750px;
+    width: 750px;
+    background: rgb(5, 5, 9);
+    margin: auto;
+}
+
+header {
+    height: 300px;
+    width: 750px;
+    background: black;
+}
+
+.CODfrontLine {
+    height: 300px;
+    width: 740px;
+    border-radius: 10px;
+    background: black;
+    margin: auto;
+}
+
+main {
+    height: 400px;
+    width: 750px;
+    background: black;
+}
+
+.GhostZombie_Ladoizquierdo {
+    height: 390px;
+    width: 340px;
+    border-radius: 10px;
+    background: black;
+    float: left;
+    margin: 2px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+
+.Buzzkills {
+    height: 187px;
+    width: 365px;
+    border-radius: 10px;
+    background: black;
+    float: right;
+    margin: 2px;
+    padding-right: 20px;
+    
+}
+
+.yutuCOD {
+    height: 187px;
+    width: 365px;
+    border-radius: 10px;
+    background: black;
+    float: right;
+    margin: 2px;
+    padding-right: 20px;
+    padding-top: -20px;
+}
