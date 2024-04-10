@@ -66,3 +66,61 @@ main {
     padding-right: 0px;
     margin-top: auto;
 }
+
+.Gif_Tableta{
+    height: 190px;
+    width: 385px;
+    border-radius: 10px;
+    background: #0A0A0A;
+    float: left;
+    margin: 2px;
+    padding-right: 0px;
+    margin-top: auto;
+}
+
+.moneda_de_CP{
+    height: 190px;
+    width: 385px;
+    border-radius: 10px;
+    background: #0A0A0A;
+    float: left;
+    margin: 2px;
+    padding-right: 0px;
+    margin-top: auto;
+}
+
+.Blackcell_Abolisher{
+    height: 390px;
+    width: 385px;
+    border-radius: 10px;
+    background: #0A0A0A;
+    float: left;
+    margin: 2px;
+    padding-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.Imagen_operador_oni{
+    height: 390px;
+    width: 340px;
+    border-radius: 10px;
+    background: #0A0A0A;
+    float: right;
+    margin: 2px;
+    padding-right: 0px;
+    margin-top: -200px;
+}
+
+
+.Buso_Warzone{
+    height: 390px;
+    width: 340px;
+    border-radius: 10px;
+    background: #0A0A0A;
+    float: right;
+    margin: 2px;
+    padding-right: 0px;
+    margin-top: auto;
+    margin-bottom: 4px;
+}
