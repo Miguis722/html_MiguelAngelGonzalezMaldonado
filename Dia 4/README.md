@@ -20,7 +20,7 @@ https://lh6.googleusercontent.com/-3ZGM5UtlndU/UjHz7W4Hn0I/AAAAAAAAAS4/XH2VIEumO
     margin-bottom: 4px;
 }
 
-
+Hola mundo
 Video de la explicación de como se debia hacer una maquetación (gracias al video supe como hacer todo):
 https://www.youtube.com/watch?v=grScJAcO45g
 
