@@ -46,23 +46,23 @@ main {
 }
 
 .Buzzkills {
-    height: 187px;
-    width: 365px;
+    height: 189px;
+    width: 385px;
     border-radius: 10px;
     background: #0A0A0A;
     float: right;
     margin: 2px;
-    padding-right: 20px;
-    
+    padding-right: 0px;
+    margin-top: -15px;
 }
 
 .yutuCOD {
-    height: 187px;
-    width: 365px;
+    height: 190px;
+    width: 385px;
     border-radius: 10px;
     background: #0A0A0A;
     float: right;
     margin: 2px;
-    padding-right: 20px;
-    padding-top: -20px;
+    padding-right: 0px;
+    margin-top: auto;
 }
