@@ -4,41 +4,41 @@
 }
 
 html {
-    background: black;
+    background: #0A0A0A;
 }
 
 body {
     height: 750px;
     width: 750px;
-    background: rgb(5, 5, 9);
+    background: #0A0A0A;
     margin: auto;
 }
 
 header {
     height: 300px;
     width: 750px;
-    background: black;
+    background: #0A0A0A;
 }
 
 .CODfrontLine {
     height: 300px;
     width: 740px;
     border-radius: 10px;
-    background: black;
+    background: #0A0A0A;
     margin: auto;
 }
 
 main {
     height: 400px;
     width: 750px;
-    background: black;
+    background: #0A0A0A;
 }
 
 .GhostZombie_Ladoizquierdo {
     height: 390px;
     width: 340px;
     border-radius: 10px;
-    background: black;
+    background: #0A0A0A;
     float: left;
     margin: 2px;
     margin-top: -3px;
@@ -49,7 +49,7 @@ main {
     height: 187px;
     width: 365px;
     border-radius: 10px;
-    background: black;
+    background: #0A0A0A;
     float: right;
     margin: 2px;
     padding-right: 20px;
@@ -60,7 +60,7 @@ main {
     height: 187px;
     width: 365px;
     border-radius: 10px;
-    background: black;
+    background: #0A0A0A;
     float: right;
     margin: 2px;
     padding-right: 20px;
